@@ -1,0 +1,22 @@
+{
+  "name": "we-profit-discord-bot",
+  "version": "1.0.0",
+  "description": "Bot Discord para a Guild We Profit",
+  "main": "index.js",
+  "scripts": {
+    "dev": "node index.js",
+    "start": "node index.js",
+    "build": "echo \"No build needed for Python app\""
+  },
+  "keywords": [
+    "discord",
+    "bot",
+    "albion",
+    "weprofit"
+  ],
+  "author": "Resetsui",
+  "license": "MIT",
+  "engines": {
+    "node": ">=20.0.0"
+  }
+}
